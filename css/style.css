@@ -1,4 +1,25 @@
 footer{
     text-align: center;
-    background-color: #808080;
+    background-color: black;
+    color: white;
+}
+
+.nav-top{
+    background-color: black
+}
+
+.nav-link{
+    color: white !important;
+    background-color: #808080 !important;
+    margin: 0.3em !important;
+    border-radius: 0.3em !important;
+}
+
+.btn-primary{
+    color: white !important;
+    background-color: #808080 !important;
+    font-weight: bold !important;
+    border-radius: 0.3em !important;
+    border-color: #808080 !important;
+
 }
